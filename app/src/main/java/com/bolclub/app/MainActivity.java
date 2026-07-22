@@ -11,7 +11,7 @@ import android.webkit.WebViewClient;
 public class MainActivity extends Activity {
 
     private WebView webView;
-    private static final String URL = "https://web-production-8090b.up.railway.app";
+    private static final String URL = "http://58.151.184.130:2401";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
